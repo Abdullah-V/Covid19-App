@@ -1,5 +1,5 @@
 # Covid19-App
-#### COVID19 app with html,css,js and covid19 api.(with live filter)
+#### COVID19 app with html,css,js and covid19 api.(with live filter function)
 #### ----------------------------------------------
 #### COVID19 datalarini gormek ucun gozel bir proqram.(canli suzme funksiyasiyla)
 
