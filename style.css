@@ -1,0 +1,55 @@
+#title{
+    text-align: center;
+}
+
+#search{
+    width: 70%;
+    height: 7%;
+    transform: translate(-50%,-50%);
+    outline-color: rgb(28, 28, 255);
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transition: all 1s ease-in-out;
+    font-size: 20px;
+}
+
+
+
+.cname{
+    position: relative;
+    left: 10px;
+}
+
+
+
+
+.elemcont{
+    position: absolute;
+    top: 30%;
+    width: 70%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+
+
+.elem{
+    margin-top: 30px;
+    border: 1px solid red;
+}
+
+
+
+
+::placeholder{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.keyvaluediv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
